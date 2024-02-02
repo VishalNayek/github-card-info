@@ -1,0 +1,27 @@
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    max-width: 100%;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
+    background-color: black;
+    color: whitesmoke;
+  }
+  
+  .avatar {
+    border-radius: 30%;
+    max-width: 100px;
+  }
+  
+  .p-container {
+    display: flex;
+    justify-content: space-between;
+  }
